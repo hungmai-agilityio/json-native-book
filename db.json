@@ -1,0 +1,1287 @@
+{
+  "products": [
+    {
+      "id": "b1a2c3d4-e5f6-7g8h-9i10-jk11lm12no13",
+      "img": "https://i.ibb.co/S4CRX7y5/That-Time-I-Got-Reincarnated-as-a-Slime-anime-official-poster.jpg",
+      "title": "Slime datta ken",
+      "detail": "Historical novel that explores family heritage.",
+      "rating": 5,
+      "price": 29.99,
+      "stock": 420,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "c2b3d4e5-f6g7-8h9i-0j11-kl12mn13op14",
+      "img": "https://i.ibb.co/N233Z5yJ/MV5-BYWVj-Ym-Q1-Yjgt-Mz-M5-Ny00-OThj-LTlh-Nj-Qt-Zjc5-Nj-Rj-ZWY5-Yz-Y5-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+      "title": "Romance in Verona",
+      "detail": "A heartfelt love story set in Italy.",
+      "rating": 4,
+      "price": 19.95,
+      "stock": 1280,
+      "categories": ["Romantic"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "d3c4e5f6-g7h8-9i0j-1k12-lm13no14pq15",
+      "img": "https://i.ibb.co/B5QmQgM8/613c-LKW0o6-L-UF1000-1000-QL80.jpg",
+      "title": "The Quantum Mirror",
+      "detail": "A science fiction adventure about parallel dimensions.",
+      "rating": 5,
+      "price": 34.5,
+      "stock": 950,
+      "categories": ["Science", "Mystery"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "e4d5f6g7-h8i9-0j1k-2l13-no14pq15rs16",
+      "img": "https://i.ibb.co/gx6Czsr/91-Dt-GCt-c8-L.jpg",
+      "title": "Mystery of the Hollow Tree",
+      "detail": "A thrilling tale of secrets hidden in nature.",
+      "rating": 3,
+      "price": 27.99,
+      "stock": 650,
+      "categories": ["Mystery"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "f5e6g7h8-i9j0-1k2l-3m14-op15qr16st17",
+      "img": "https://example.com/book5.jpg",
+      "title": "Konosuba",
+      "detail": "Novel isekai",
+      "rating": 5,
+      "price": 22.0,
+      "stock": 1020,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "g6f7h8i9-j0k1-2l3m-4n15-pq16rs17tu18",
+      "img": "https://i.ibb.co/LzScvW4F/360-F-527895610-mu8z-M9n-HUDIafa-BQ9-G3v-LAxpkb-Cdu-Waf.jpg",
+      "title": "Hearts in Autumn",
+      "detail": "Romantic drama set in a small countryside village.",
+      "rating": 4,
+      "price": 18.5,
+      "stock": 1500,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "h7g8i9j0-k1l2-3m4n-5o16-qr17st18uv19",
+      "img": "https://i.ibb.co/Z6Y1GPkv/images.jpg",
+      "title": "Fragments of Sky",
+      "detail": "A lyrical collection of modern poems.",
+      "rating": 5,
+      "price": 16.75,
+      "stock": 830,
+      "categories": ["Novel"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "i8h9j0k1-l2m3-4n5o-6p17-rs18tu19vw20",
+      "img": "https://i.ibb.co/8n053xkW/BN-ND999-REV031-PL-20160318172202.jpg",
+      "title": "When Machines Feel",
+      "detail": "A deep dive into artificial intelligence ethics.",
+      "rating": 4,
+      "price": 25.99,
+      "stock": 1180,
+      "categories": ["Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "j9i0k1l2-m3n4-5o6p-7q18-st19uv20wx21",
+      "img": "https://i.ibb.co/HT8QC0RY/xxlarge-9780749484248.jpg",
+      "title": "Human/Machine",
+      "detail": "A historical conspiracy thriller.",
+      "rating": 5,
+      "price": 32.0,
+      "stock": 2000,
+      "categories": ["Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "k0j1l2m3-n4o5-6p7q-8r19-tu20vw21xy22",
+      "img": "https://i.ibb.co/kVDh4pLm/51r-Ovt-E4-Te-L-AC-UF1000-1000-QL80.jpg",
+      "title": "Seasons of the Mind",
+      "detail": "A journey through emotional landscapes.",
+      "rating": 4,
+      "price": 20.75,
+      "stock": 1210,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "l1k2m3n4-o5p6-7q8r-9s20-vw21xy22za23",
+      "img": "https://i.ibb.co/VW9JZ1m4/91-Ob-X3-I4-GJL-UF1000-1000-QL80.jpg",
+      "title": "Code of the Cosmos",
+      "detail": "A blend of science and philosophy in space.",
+      "rating": 5,
+      "price": 38.4,
+      "stock": 610,
+      "categories": ["Science", "Mystery"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "m2l3n4o5-p6q7-8r9s-0t21-xy22za23ab24",
+      "img": "https://i.ibb.co/MDnZzYj2/default.jpg",
+      "title": "The Poet's Garden",
+      "detail": "Poetry collection inspired by nature and seasons.",
+      "rating": 5,
+      "price": 17.8,
+      "stock": 540,
+      "categories": ["Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "n3m4o5p6-q7r8-9s0t-1u22-za23ab24bc25",
+      "img": "https://i.ibb.co/1fGPsM7b/Untitled-design-27-1024x683.jpg",
+      "title": "The Second Moon",
+      "detail": "Speculative tale of life on a twin Earth.",
+      "rating": 4,
+      "price": 39.0,
+      "stock": 920,
+      "categories": ["Science"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "o4n5p6q7-r8s9-0t1u-2v23-ab24bc25cd26",
+      "img": "https://i.ibb.co/ZRzLjCdq/71lyp-G4-Ud0-L-UF1000-1000-QL80.jpg",
+      "title": "Whispers from the Tomb",
+      "detail": "A gripping historical crime novel.",
+      "rating": 5,
+      "price": 44.0,
+      "stock": 1460,
+      "categories": ["History", "Mystery"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "p5o6q7r8-s9t0-1u2v-3w24-bc25cd26de27",
+      "img": "https://i.ibb.co/zTQCxt3g/71-GRct-Cf-GL-UF894-1000-QL80.jpg",
+      "title": "Love Across Oceans",
+      "detail": "Two souls united by letters and fate.",
+      "rating": 4,
+      "price": 23.25,
+      "stock": 780,
+      "categories": ["Romantic"],
+      "authors": [
+        "11k1l2m3-n4o5-678p-9q20-rs21tu22vw23",
+        "02b2c3d4-e5f6-789g-0h11-ij12kl13mn14"
+      ]
+    },
+    {
+      "id": "q6p7r8s9-t0u1-2v3w-4x25-cd26de27ef28",
+      "img": "https://i.ibb.co/ynL25pdc/images-1.jpg",
+      "title": "Silent Volcano",
+      "detail": "Essay on emotional resilience and power.",
+      "rating": 3,
+      "price": 15.5,
+      "stock": 310,
+      "categories": ["Novel"],
+      "authors": ["04d4e5f6-g7h8-901i-2j13-kl14mn15op16"]
+    },
+    {
+      "id": "r7q8s9t0-u1v2-3w4x-5y26-de27ef28fg29",
+      "img": "https://i.ibb.co/HDp6zfpM/81lo3-Ot-Tm-SL-AC-UF894-1000-QL80.jpg",
+      "title": "The Innovators’ Diaries",
+      "detail": "A collection of life stories from tech pioneers.",
+      "rating": 5,
+      "price": 41.9,
+      "stock": 990,
+      "categories": ["History", "Science"],
+      "authors": ["10j0k1l2-m3n4-567o-8p19-qr20st21uv22"]
+    },
+    {
+      "id": "s8r9t0u1-v2w3-4x5y-6z27-ef28fg29gh30",
+      "img": "https://i.ibb.co/sdXv6jd0/81kp-Xem-INa-L-UF1000-1000-QL80.jpg",
+      "title": "Painted Shadows",
+      "detail": "A mysterious love triangle in Victorian London.",
+      "rating": 4,
+      "price": 26.75,
+      "stock": 1340,
+      "categories": ["Romantic", "Mystery"],
+      "authors": [
+        "06f6g7h8-i9j0-123k-4l15-mn16op17qr18",
+        "13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"
+      ]
+    },
+    {
+      "id": "t9s0u1v2-w3x4-5y6z-7a28-fg29gh30hi31",
+      "img": "https://i.ibb.co/FbnLdT66/61gr-VR3-SAq-L-UF1000-1000-QL80.jpg",
+      "title": "Shadow Theatre",
+      "detail": "Experimental play that bends reality and illusion.",
+      "rating": 3,
+      "price": 24.6,
+      "stock": 410,
+      "categories": ["Mystery"],
+      "authors": ["12l2m3n4-o5p6-789q-0r21-st22uv23wx24"]
+    },
+    {
+      "id": "u0t1v2w3-x4y5-6z7a-8b29-gh30hi31ij32",
+      "img": "https://i.ibb.co/RpggZfd0/MV5-BMTg0-Nj-Yx-OTA2-N15-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mj-M5-Nj-Yx-NTM-V1.jpg",
+      "title": "Through the Lens",
+      "detail": "Photographic biography of forgotten inventors.",
+      "rating": 5,
+      "price": 33.8,
+      "stock": 2100,
+      "categories": ["History"],
+      "authors": ["15o5p6q7-r8s9-012t-3u24-vw25xy26za27"]
+    },
+    {
+      "id": "v1u2w3x4-y5z6-7a8b-9c30-hi31ij32jk33",
+      "img": "https://i.ibb.co/S4CRX7y5/That-Time-I-Got-Reincarnated-as-a-Slime-anime-official-poster.jpg",
+      "title": "Tales of the Forgotten",
+      "detail": "Historical novel that explores family heritage.",
+      "rating": 5,
+      "price": 29.99,
+      "stock": 420,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "w2v3x4y5-z6a7-8b9c-0d31-ij32jk33kl34",
+      "img": "https://i.ibb.co/N233Z5yJ/MV5-BYWVj-Ym-Q1-Yjgt-Mz-M5-Ny00-OThj-LTlh-Nj-Qt-Zjc5-Nj-Rj-ZWY5-Yz-Y5-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+      "title": "Echoes of Tomorrow",
+      "detail": "A heartfelt love story set in Italy.",
+      "rating": 4,
+      "price": 19.95,
+      "stock": 1280,
+      "categories": ["Romantic"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "x3w4y5z6-a7b8-9c0d-1e32-jk33kl34lm35",
+      "img": "https://i.ibb.co/B5QmQgM8/613c-LKW0o6-L-UF1000-1000-QL80.jpg",
+      "title": "Stars Between Us",
+      "detail": "A science fiction adventure about parallel dimensions.",
+      "rating": 5,
+      "price": 34.5,
+      "stock": 950,
+      "categories": ["Science", "Mystery"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "y4x5z6a7-b8c9-0d1e-2f33-kl34lm35mn36",
+      "img": "https://i.ibb.co/gx6Czsr/91-Dt-GCt-c8-L.jpg",
+      "title": "Memoirs of the Sea",
+      "detail": "A thrilling tale of secrets hidden in nature.",
+      "rating": 3,
+      "price": 27.99,
+      "stock": 650,
+      "categories": ["Mystery"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "z5y6a7b8-c9d0-1e2f-3g34-lm35mn36op37",
+      "img": "https://example.com/book5.jpg",
+      "title": "Chronicles of Flame",
+      "detail": "Novel isekai",
+      "rating": 5,
+      "price": 22.0,
+      "stock": 1020,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "a6z7b8c9-d0e1-2f3g-4h35-mn36op37qr38",
+      "img": "https://i.ibb.co/LzScvW4F/360-F-527895610-mu8z-M9n-HUDIafa-BQ9-G3v-LAxpkb-Cdu-Waf.jpg",
+      "title": "Leaves of Winter",
+      "detail": "Romantic drama set in a small countryside village.",
+      "rating": 4,
+      "price": 18.5,
+      "stock": 1500,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "b7a8c9d0-e1f2-3g4h-5i36-op37qr38st39",
+      "img": "https://i.ibb.co/Z6Y1GPkv/images.jpg",
+      "title": "Echoes of Blue",
+      "detail": "A lyrical collection of modern poems.",
+      "rating": 5,
+      "price": 16.75,
+      "stock": 830,
+      "categories": ["Novel"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "c8b9d0e1-f2g3-4h5i-6j37-qr38st39tu40",
+      "img": "https://i.ibb.co/8n053xkW/BN-ND999-REV031-PL-20160318172202.jpg",
+      "title": "Digital Hearts",
+      "detail": "A deep dive into artificial intelligence ethics.",
+      "rating": 4,
+      "price": 25.99,
+      "stock": 1180,
+      "categories": ["Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "d9c0e1f2-g3h4-5i6j-7k38-st39tu40uv41",
+      "img": "https://i.ibb.co/HT8QC0RY/xxlarge-9780749484248.jpg",
+      "title": "The Fifth Empire",
+      "detail": "A historical conspiracy thriller.",
+      "rating": 5,
+      "price": 32.0,
+      "stock": 2000,
+      "categories": ["Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "e0d1f2g3-h4i5-6j7k-8l39-tu40uv41wx42",
+      "img": "https://i.ibb.co/kVDh4pLm/51r-Ovt-E4-Te-L-AC-UF1000-1000-QL80.jpg",
+      "title": "Mind Horizons",
+      "detail": "A journey through emotional landscapes.",
+      "rating": 4,
+      "price": 20.75,
+      "stock": 1210,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "f1e2g3h4-i5j6-7k8l-9m40-uv41wx42yz43",
+      "img": "https://i.ibb.co/VW9JZ1m4/91-Ob-X3-I4-GJL-UF1000-1000-QL80.jpg",
+      "title": "Orbit Code",
+      "detail": "A blend of science and philosophy in space.",
+      "rating": 5,
+      "price": 38.4,
+      "stock": 610,
+      "categories": ["Science", "Mystery"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "g2f3h4i5-j6k7-8l9m-0n41-wx42yz43ab44",
+      "img": "https://i.ibb.co/MDnZzYj2/default.jpg",
+      "title": "Petals of Verse",
+      "detail": "Poetry collection inspired by nature and seasons.",
+      "rating": 5,
+      "price": 17.8,
+      "stock": 540,
+      "categories": ["Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "h3g4i5j6-k7l8-9m0n-1o42-xy43ab44bc45",
+      "img": "https://i.ibb.co/1fGPsM7b/Untitled-design-27-1024x683.jpg",
+      "title": "Planet Twin",
+      "detail": "Speculative tale of life on a twin Earth.",
+      "rating": 4,
+      "price": 39.0,
+      "stock": 920,
+      "categories": ["Science"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "i4h5j6k7-l8m9-0n1o-2p43-ab44bc45cd46",
+      "img": "https://i.ibb.co/ZRzLjCdq/71lyp-G4-Ud0-L-UF1000-1000-QL80.jpg",
+      "title": "Crypt Tombs",
+      "detail": "A gripping historical crime novel.",
+      "rating": 5,
+      "price": 44.0,
+      "stock": 1460,
+      "categories": ["History", "Mystery"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "j5i6k7l8-m9n0-1o2p-3q44-bc45cd46de47",
+      "img": "https://i.ibb.co/zTQCxt3g/71-GRct-Cf-GL-UF894-1000-QL80.jpg",
+      "title": "Waves of Affection",
+      "detail": "Two souls united by letters and fate.",
+      "rating": 4,
+      "price": 23.25,
+      "stock": 780,
+      "categories": ["Romantic"],
+      "authors": [
+        "11k1l2m3-n4o5-678p-9q20-rs21tu22vw23",
+        "02b2c3d4-e5f6-789g-0h11-ij12kl13mn14"
+      ]
+    },
+    {
+      "id": "k6j7l8m9-n0o1-2p3q-4r45-cd46de47ef48",
+      "img": "https://i.ibb.co/S4CRX7y5/That-Time-I-Got-Reincarnated-as-a-Slime-anime-official-poster.jpg",
+      "title": "The Lost Horizon",
+      "detail": "A tale of a kingdom hidden beyond time.",
+      "rating": 5,
+      "price": 31.99,
+      "stock": 380,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "l7k8m9n0-o1p2-3q4r-5s46-de47ef48fg49",
+      "img": "https://i.ibb.co/N233Z5yJ/MV5-BYWVj-Ym-Q1-Yjgt-Mz-M5-Ny00-OThj-LTlh-Nj-Qt-Zjc5-Nj-Rj-ZWY5-Yz-Y5-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+      "title": "Whispers in the Rain",
+      "detail": "Romantic story of two strangers caught in a storm.",
+      "rating": 4,
+      "price": 20.95,
+      "stock": 1100,
+      "categories": ["Romantic"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "m8l9n0o1-p2q3-4r5s-6t47-ef48fg49gh50",
+      "img": "https://i.ibb.co/B5QmQgM8/613c-LKW0o6-L-UF1000-1000-QL80.jpg",
+      "title": "Across the Nebula",
+      "detail": "Sci-fi odyssey into a mysterious nebula.",
+      "rating": 5,
+      "price": 35.0,
+      "stock": 880,
+      "categories": ["Science", "Mystery"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "n9m0o1p2-q3r4-5s6t-7u48-fg49gh50hi51",
+      "img": "https://i.ibb.co/gx6Czsr/91-Dt-GCt-c8-L.jpg",
+      "title": "Beneath the Cypress",
+      "detail": "Mystery surrounding a remote countryside estate.",
+      "rating": 3,
+      "price": 26.5,
+      "stock": 700,
+      "categories": ["Mystery"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "o0n1p2q3-r4s5-6t7u-8v49-gh50hi51ij52",
+      "img": "https://example.com/book5.jpg",
+      "title": "Ashes and Embers",
+      "detail": "Reincarnated in a world ruled by dragons.",
+      "rating": 5,
+      "price": 23.0,
+      "stock": 1000,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "p1o2q3r4-s5t6-7u8v-9w50-hi51ij52jk53",
+      "img": "https://i.ibb.co/LzScvW4F/360-F-527895610-mu8z-M9n-HUDIafa-BQ9-G3v-LAxpkb-Cdu-Waf.jpg",
+      "title": "The Winter Lantern",
+      "detail": "Love blooms during a snowbound winter.",
+      "rating": 4,
+      "price": 19.5,
+      "stock": 1440,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "q2p3r4s5-t6u7-8v9w-0x51-ij52jk53kl54",
+      "img": "https://i.ibb.co/Z6Y1GPkv/images.jpg",
+      "title": "Verses from the Shore",
+      "detail": "Poems inspired by sea winds and solitude.",
+      "rating": 5,
+      "price": 15.75,
+      "stock": 900,
+      "categories": ["Novel"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "r3q4s5t6-u7v8-9w0x-1y52-jk53kl54lm55",
+      "img": "https://i.ibb.co/8n053xkW/BN-ND999-REV031-PL-20160318172202.jpg",
+      "title": "The Ghost Protocol",
+      "detail": "AI uprising and ethics of robotics.",
+      "rating": 4,
+      "price": 26.99,
+      "stock": 1130,
+      "categories": ["Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "s4r5t6u7-v8w9-0x1y-2z53-kl54lm55mn56",
+      "img": "https://i.ibb.co/HT8QC0RY/xxlarge-9780749484248.jpg",
+      "title": "Empire Without End",
+      "detail": "An empire built on lies and secrets.",
+      "rating": 5,
+      "price": 33.0,
+      "stock": 1980,
+      "categories": ["Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "t5s6u7v8-w9x0-1y2z-3a54-lm55mn56op57",
+      "img": "https://i.ibb.co/kVDh4pLm/51r-Ovt-E4-Te-L-AC-UF1000-1000-QL80.jpg",
+      "title": "The Shape of Silence",
+      "detail": "A psychological romantic exploration.",
+      "rating": 4,
+      "price": 21.5,
+      "stock": 1200,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "u6t7v8w9-x0y1-2z3a-4b55-mn56op57pq58",
+      "img": "https://i.ibb.co/VW9JZ1m4/91-Ob-X3-I4-GJL-UF1000-1000-QL80.jpg",
+      "title": "Beyond the Crimson Sky",
+      "detail": "Sci-fi meets human nature in deep space.",
+      "rating": 5,
+      "price": 36.0,
+      "stock": 670,
+      "categories": ["Science", "Mystery"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "v7u8w9x0-y1z2-3a4b-5c56-op57pq58qr59",
+      "img": "https://i.ibb.co/MDnZzYj2/default.jpg",
+      "title": "The Painted Wind",
+      "detail": "Poetry that captures the wild and untamed.",
+      "rating": 5,
+      "price": 18.0,
+      "stock": 510,
+      "categories": ["Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "w8v9x0y1-z2a3-4b5c-6d57-pq58qr59rs60",
+      "img": "https://i.ibb.co/1fGPsM7b/Untitled-design-27-1024x683.jpg",
+      "title": "A Second Earth",
+      "detail": "Speculative science tale of a mirror planet.",
+      "rating": 4,
+      "price": 40.0,
+      "stock": 890,
+      "categories": ["Science"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "x9w0y1z2-a3b4-5c6d-7e58-qr59rs60st61",
+      "img": "https://i.ibb.co/ZRzLjCdq/71lyp-G4-Ud0-L-UF1000-1000-QL80.jpg",
+      "title": "Secrets of the Obelisk",
+      "detail": "Crime and history collide beneath ancient stone.",
+      "rating": 5,
+      "price": 43.0,
+      "stock": 1400,
+      "categories": ["History", "Mystery"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "y0x1z2a3-b4c5-6d7e-8f59-rs60st61tu62",
+      "img": "https://i.ibb.co/zTQCxt3g/71-GRct-Cf-GL-UF894-1000-QL80.jpg",
+      "title": "Letters from the Harbor",
+      "detail": "Love story through lost correspondence.",
+      "rating": 4,
+      "price": 22.75,
+      "stock": 810,
+      "categories": ["Romantic"],
+      "authors": [
+        "11k1l2m3-n4o5-678p-9q20-rs21tu22vw23",
+        "02b2c3d4-e5f6-789g-0h11-ij12kl13mn14"
+      ]
+    },
+    {
+      "id": "z1y2x3w4-v5u6-7t8s-9r60-st61tu62uv63",
+      "img": "https://i.ibb.co/Tg9Htmt/9780062073563.jpg",
+      "title": "The Lantern Orchard",
+      "detail": "A hidden orchard with glowing secrets.",
+      "rating": 4,
+      "price": 24.99,
+      "stock": 920,
+      "categories": ["Mystery"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "a2b3c4d5-e6f7-8g9h-0i61-tu62uv63vw64",
+      "img": "https://i.ibb.co/fF3YjSGz/9781408890702.jpg",
+      "title": "Fields of Reverie",
+      "detail": "A poetic walk through imagined worlds.",
+      "rating": 5,
+      "price": 17.5,
+      "stock": 430,
+      "categories": ["Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "b3c4d5e6-f7g8-9h0i-1j62-uv63vw64wx65",
+      "img": "https://i.ibb.co/zHkR0KnL/poetry.jpg",
+      "title": "Whispers Beneath Stone",
+      "detail": "Ancient secrets beneath sacred ground.",
+      "rating": 4,
+      "price": 28.0,
+      "stock": 640,
+      "categories": ["History", "Mystery"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "c4d5e6f7-g8h9-0i1j-2k63-vw64wx65xy66",
+      "img": "https://i.ibb.co/TrR5RBTc/love-in-the-time.jpg",
+      "title": "Clouds and Cypress",
+      "detail": "A peaceful tale of countryside solitude.",
+      "rating": 3,
+      "price": 18.95,
+      "stock": 510,
+      "categories": ["Novel"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "d5e6f7g8-h9i0-1j2k-3l64-wx65xy66yz67",
+      "img": "https://i.ibb.co/gMytF7SZ/BookCover.jpg",
+      "title": "Fragments of the Wind",
+      "detail": "Short reflections on nature and memory.",
+      "rating": 5,
+      "price": 21.0,
+      "stock": 970,
+      "categories": ["Novel"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "e6f7g8h9-i0j1-2k3l-4m65-xy66yz67za68",
+      "img": "https://i.ibb.co/fdVCgL0D/science-fiction.jpg",
+      "title": "Echoes in the Void",
+      "detail": "Survivors drift across silent galaxies.",
+      "rating": 5,
+      "price": 38.0,
+      "stock": 800,
+      "categories": ["Science"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "f7g8h9i0-j1k2-3l4m-5n66-za68ab69bc70",
+      "img": "https://i.ibb.co/FzR9fwZ/mystery-novel.jpg",
+      "title": "Shadows by Lantern Light",
+      "detail": "A detective’s last unsolved case.",
+      "rating": 4,
+      "price": 29.99,
+      "stock": 1030,
+      "categories": ["Mystery"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "g8h9i0j1-k2l3-4m5n-6o67-ab69bc70cd71",
+      "img": "https://i.ibb.co/DYLLNQz/romance-book.jpg",
+      "title": "The Scent of Rain",
+      "detail": "Love rekindled under monsoon skies.",
+      "rating": 5,
+      "price": 25.0,
+      "stock": 870,
+      "categories": ["Romantic"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "h9i0j1k2-l3m4-5n6o-7p68-bc70cd71de72",
+      "img": "https://i.ibb.co/WDnvH6Bm/old-world.jpg",
+      "title": "The Forgotten Garden",
+      "detail": "Traces of the past hidden in flowers.",
+      "rating": 4,
+      "price": 19.99,
+      "stock": 750,
+      "categories": ["Romantic", "Mystery"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "i0j1k2l3-m4n5-6o7p-8q69-cd71de72ef73",
+      "img": "https://i.ibb.co/hfKMzDtK/spacebook.jpg",
+      "title": "Mirror of the Sky",
+      "detail": "Parallel worlds and fractured destiny.",
+      "rating": 5,
+      "price": 41.5,
+      "stock": 980,
+      "categories": ["Science", "Novel"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "j1k2l3m4-n5o6-7p8q-9r70-de72ef73fg74",
+      "img": "https://i.ibb.co/khRFFYgL/poetry-cover.jpg",
+      "title": "The Violet Season",
+      "detail": "Poems for love and longing.",
+      "rating": 5,
+      "price": 15.99,
+      "stock": 1020,
+      "categories": ["Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "k2l3m4n5-o6p7-8q9r-0s71-ef73fg74gh75",
+      "img": "https://i.ibb.co/mRmn6GZH/lost-library.jpg",
+      "title": "Voices from the Library",
+      "detail": "A scholar uncovers forgotten truths.",
+      "rating": 4,
+      "price": 27.0,
+      "stock": 1190,
+      "categories": ["History"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "l3m4n5o6-p7q8-9r0s-1t72-fg74gh75hi76",
+      "img": "https://i.ibb.co/PWZCfqHy/sci-future.jpg",
+      "title": "When Circuits Dream",
+      "detail": "Androids who remember being human.",
+      "rating": 5,
+      "price": 34.99,
+      "stock": 1340,
+      "categories": ["Science"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "m4n5o6p7-q8r9-0s1t-2u73-gh75hi76ij77",
+      "img": "https://i.ibb.co/NWwCRczK/romantic-sunset.jpg",
+      "title": "Evening by the Lake",
+      "detail": "A romance reborn by sunset waters.",
+      "rating": 4,
+      "price": 23.5,
+      "stock": 990,
+      "categories": ["Romantic"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "n5o6p7q8-r9s0-1t2u-3v74-hi76ij77jk78",
+      "img": "https://i.ibb.co/tsYfpvD/japanese-novel.jpg",
+      "title": "Paper Cranes and Ash",
+      "detail": "A gentle story of loss and resilience.",
+      "rating": 5,
+      "price": 22.0,
+      "stock": 1110,
+      "categories": ["Novel"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "o6p7q8r9-s0t1-2u3v-4w75-ij77jk78kl79",
+      "img": "https://i.ibb.co/2cHXcPB9/utopia.jpg",
+      "title": "Blueprint for Tomorrow",
+      "detail": "A vision of society reimagined.",
+      "rating": 5,
+      "price": 39.0,
+      "stock": 890,
+      "categories": ["Science", "History"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "p7q8r9s0-t1u2-3v4w-5x76-jk78kl79lm80",
+      "img": "https://i.ibb.co/KWbYpPy/cover1.jpg",
+      "title": "A Garden in Silence",
+      "detail": "A tale of love and memory in stillness.",
+      "rating": 4,
+      "price": 21.5,
+      "stock": 680,
+      "categories": ["Romantic"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "q8r9s0t1-u2v3-4w5x-6y77-kl79lm80mn81",
+      "img": "https://i.ibb.co/6bXMkHL/cover2.jpg",
+      "title": "Letters Never Sent",
+      "detail": "Unspoken words and forgotten feelings.",
+      "rating": 5,
+      "price": 26.0,
+      "stock": 760,
+      "categories": ["Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "r9s0t1u2-v3w4-5x6y-7z78-lm80mn81no82",
+      "img": "https://i.ibb.co/yBgYcc9/cover3.jpg",
+      "title": "Beyond the Ember",
+      "detail": "Hope emerges from the last flame.",
+      "rating": 4,
+      "price": 24.0,
+      "stock": 810,
+      "categories": ["Science", "Mystery"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "s0t1u2v3-w4x5-6y7z-8a79-mn81no82op83",
+      "img": "https://i.ibb.co/gmdWPC9/cover4.jpg",
+      "title": "Lanterns on the Shore",
+      "detail": "Reflections of farewell on water’s edge.",
+      "rating": 3,
+      "price": 18.5,
+      "stock": 640,
+      "categories": ["Novel", "Romantic"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "t1u2v3w4-x5y6-7z8a-9b80-no82op83pq84",
+      "img": "https://i.ibb.co/TW9xS6f/cover5.jpg",
+      "title": "The Wind Remains",
+      "detail": "A meditation on absence and time.",
+      "rating": 5,
+      "price": 29.0,
+      "stock": 880,
+      "categories": ["Poetry"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "u2v3w4x5-y6z7-8a9b-0c81-op83pq84qr85",
+      "img": "https://i.ibb.co/K5BC6Lk/cover6.jpg",
+      "title": "Rain on Stone Paths",
+      "detail": "Old journeys rediscovered under rain.",
+      "rating": 4,
+      "price": 22.5,
+      "stock": 700,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "v3w4x5y6-z7a8-9b0c-1d82-pq84qr85rs86",
+      "img": "https://i.ibb.co/ZgP0v6H/cover7.jpg",
+      "title": "Tales from the Hearth",
+      "detail": "Stories whispered beside warm fires.",
+      "rating": 4,
+      "price": 19.99,
+      "stock": 760,
+      "categories": ["History"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "w4x5y6z7-a8b9-0c1d-2e83-qr85rs86st87",
+      "img": "https://i.ibb.co/mvgrD4P/cover8.jpg",
+      "title": "Echoes Across the Bay",
+      "detail": "A letter finds its way home.",
+      "rating": 5,
+      "price": 23.0,
+      "stock": 970,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "x5y6z7a8-b9c0-1d2e-3f84-rs86st87tu88",
+      "img": "https://i.ibb.co/9H2htyH/cover9.jpg",
+      "title": "Ashes and Rainwater",
+      "detail": "Between endings and new beginnings.",
+      "rating": 5,
+      "price": 27.5,
+      "stock": 830,
+      "categories": ["Mystery"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "y6z7a8b9-c0d1-2e3f-4g85-st87tu88uv89",
+      "img": "https://i.ibb.co/sKNTLM4/cover10.jpg",
+      "title": "Light through the Canopy",
+      "detail": "Peace under the forest dome.",
+      "rating": 4,
+      "price": 20.0,
+      "stock": 750,
+      "categories": ["Poetry"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "z7a8b9c0-d1e2-3f4g-5h86-tu88uv89vw90",
+      "img": "https://i.ibb.co/vJytNyg/cover11.jpg",
+      "title": "Under Distant Skies",
+      "detail": "An exploration of dreams and doubt.",
+      "rating": 4,
+      "price": 30.5,
+      "stock": 880,
+      "categories": ["Science"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "a8b9c0d1-e2f3-4g5h-6i87-uv89vw90wx91",
+      "img": "https://i.ibb.co/8MLCPt7/cover12.jpg",
+      "title": "Smoke over the Water",
+      "detail": "War, peace, and forgotten rivers.",
+      "rating": 4,
+      "price": 26.5,
+      "stock": 690,
+      "categories": ["History"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "b9c0d1e2-f3g4-5h6i-7j88-vw90wx91xy92",
+      "img": "https://i.ibb.co/SKZ1FfW/cover13.jpg",
+      "title": "Voices in the Fog",
+      "detail": "Unseen stories drift through mist.",
+      "rating": 5,
+      "price": 28.5,
+      "stock": 920,
+      "categories": ["Mystery", "Poetry"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "c0d1e2f3-g4h5-6i7j-8k89-wx91xy92yz93",
+      "img": "https://i.ibb.co/MRDLXpX/cover14.jpg",
+      "title": "Nightfall at the Summit",
+      "detail": "Courage and solitude in the heights.",
+      "rating": 5,
+      "price": 32.0,
+      "stock": 980,
+      "categories": ["Novel"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "d1e2f3g4-h5i6-7j8k-9l90-xy92yz93za94",
+      "img": "https://i.ibb.co/kJvffym/cover15.jpg",
+      "title": "A Room without Windows",
+      "detail": "A man recalls his youth in silence.",
+      "rating": 4,
+      "price": 24.0,
+      "stock": 760,
+      "categories": ["Novel"],
+      "authors": ["01a1b2c3-d4e5-678f-9a10-bc11de12fg13"]
+    },
+    {
+      "id": "e2f3g4h5-i6j7-8k9l-0m91-za94ab95bc96",
+      "img": "https://i.ibb.co/N3hWxD9/cover16.jpg",
+      "title": "The Last Paper Lantern",
+      "detail": "A memory carried by firelight.",
+      "rating": 5,
+      "price": 31.5,
+      "stock": 710,
+      "categories": ["Romantic", "Poetry"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "f3g4h5i6-j7k8-9l0m-1n92-ab95bc96cd97",
+      "img": "https://i.ibb.co/L5BMXPQ/cover17.jpg",
+      "title": "Driftwood Letters",
+      "detail": "Messages from the sea etched in time.",
+      "rating": 4,
+      "price": 23.0,
+      "stock": 780,
+      "categories": ["Novel", "Romantic"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "g4h5i6j7-k8l9-0m1n-2o93-bc96cd97de98",
+      "img": "https://i.ibb.co/hBsyCTH/cover18.jpg",
+      "title": "Where Stars Had Fallen",
+      "detail": "A child's dream woven through the cosmos.",
+      "rating": 5,
+      "price": 27.0,
+      "stock": 820,
+      "categories": ["Science", "Poetry"],
+      "authors": ["07g7h8i9-j0k1-234l-5m16-no17pq18rs19"]
+    },
+    {
+      "id": "h5i6j7k8-l9m0-1n2o-3p94-cd97de98ef99",
+      "img": "https://i.ibb.co/JqwBQcq/cover19.jpg",
+      "title": "Season of Blue Lanterns",
+      "detail": "A winter mystery in a remote village.",
+      "rating": 4,
+      "price": 26.5,
+      "stock": 600,
+      "categories": ["Mystery"],
+      "authors": ["10j0k1l2-m3n4-567o-8p19-qr20st21uv22"]
+    },
+    {
+      "id": "i6j7k8l9-m0n1-2o3p-4q95-de98ef99fg00",
+      "img": "https://i.ibb.co/8N1R4Lt/cover20.jpg",
+      "title": "The Cloud Garden",
+      "detail": "A poetic narrative set among floating islands.",
+      "rating": 5,
+      "price": 31.0,
+      "stock": 430,
+      "categories": ["Novel", "Science"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "j7k8l9m0-n1o2-3p4q-5r96-ef99fg00gh01",
+      "img": "https://i.ibb.co/vJkKSyk/cover21.jpg",
+      "title": "Ink of the Forgotten",
+      "detail": "An author’s search for meaning in silence.",
+      "rating": 3,
+      "price": 21.75,
+      "stock": 890,
+      "categories": ["Novel"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "k8l9m0n1-o2p3-4q5r-6s97-fg00gh01hi02",
+      "img": "https://i.ibb.co/P9sv3VL/cover22.jpg",
+      "title": "The Sculptor’s Echo",
+      "detail": "A historical journey through art and legacy.",
+      "rating": 5,
+      "price": 36.9,
+      "stock": 720,
+      "categories": ["History"],
+      "authors": ["15o5p6q7-r8s9-012t-3u24-vw25xy26za27"]
+    },
+    {
+      "id": "l9m0n1o2-p3q4-5r6s-7t98-gh01hi02ij03",
+      "img": "https://i.ibb.co/gM4vnnZ/cover23.jpg",
+      "title": "The Forgotten Prism",
+      "detail": "A lost artifact that reveals hidden truths.",
+      "rating": 4,
+      "price": 28.0,
+      "stock": 510,
+      "categories": ["Mystery", "Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    },
+    {
+      "id": "m0n1o2p3-q4r5-6s7t-8u99-hi02ij03jk04",
+      "img": "https://i.ibb.co/qk8Y2QC/cover24.jpg",
+      "title": "Night’s Cartographer",
+      "detail": "Mapping constellations across cultures.",
+      "rating": 4,
+      "price": 29.5,
+      "stock": 470,
+      "categories": ["Science", "History"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "n1o2p3q4-r5s6-7t8u-9v00-ij03jk04kl05",
+      "img": "https://i.ibb.co/HgNrJxq/cover25.jpg",
+      "title": "Echoes in the Canvas",
+      "detail": "An artist’s journey through war and peace.",
+      "rating": 5,
+      "price": 34.25,
+      "stock": 390,
+      "categories": ["Novel", "History"],
+      "authors": ["02b2c3d4-e5f6-789g-0h11-ij12kl13mn14"]
+    },
+    {
+      "id": "o2p3q4r5-s6t7-8u9v-0w01-jk04kl05lm06",
+      "img": "https://i.ibb.co/q5rMNsS/cover26.jpg",
+      "title": "Lanterns of the Wind",
+      "detail": "Tales told beneath ancient trees.",
+      "rating": 3,
+      "price": 19.75,
+      "stock": 830,
+      "categories": ["Romantic"],
+      "authors": ["03c3d4e5-f6g7-890h-1i12-jk13lm14no15"]
+    },
+    {
+      "id": "p3q4r5s6-t7u8-9v0w-1x02-kl05lm06mn07",
+      "img": "https://i.ibb.co/0QvQm2v/cover27.jpg",
+      "title": "Beneath Paper Skies",
+      "detail": "Childhood memories retold through haiku.",
+      "rating": 4,
+      "price": 16.5,
+      "stock": 610,
+      "categories": ["Poetry", "Novel"],
+      "authors": ["04d4e5f6-g7h8-901i-2j13-kl14mn15op16"]
+    },
+    {
+      "id": "q4r5s6t7-u8v9-0w1x-2y03-lm06mn07no08",
+      "img": "https://i.ibb.co/SfFWq0N/cover28.jpg",
+      "title": "Gardens of Memory",
+      "detail": "Love and loss through changing seasons.",
+      "rating": 5,
+      "price": 30.0,
+      "stock": 690,
+      "categories": ["Romantic"],
+      "authors": ["11k1l2m3-n4o5-678p-9q20-rs21tu22vw23"]
+    },
+    {
+      "id": "r5s6t7u8-v9w0-1x2y-3z04-mn07no08op09",
+      "img": "https://i.ibb.co/Ch2PzHr/cover29.jpg",
+      "title": "Harvest of Dreams",
+      "detail": "Folk tales from a mountain village.",
+      "rating": 4,
+      "price": 22.75,
+      "stock": 740,
+      "categories": ["Novel", "History"],
+      "authors": ["12l2m3n4-o5p6-789q-0r21-st22uv23wx24"]
+    },
+    {
+      "id": "s6t7u8v9-w0x1-2y3z-4a05-no08op09pq10",
+      "img": "https://i.ibb.co/LtHVpN2/cover30.jpg",
+      "title": "Voices from the Well",
+      "detail": "A generational mystery unraveled.",
+      "rating": 5,
+      "price": 35.0,
+      "stock": 580,
+      "categories": ["Mystery"],
+      "authors": ["13m3n4o5-p6q7-890r-1s22-tu23vw24xy25"]
+    },
+    {
+      "id": "t7u8v9w0-x1y2-3z4a-5b06-op09pq10qr11",
+      "img": "https://i.ibb.co/T8ymZ0T/cover31.jpg",
+      "title": "The Ivory Compass",
+      "detail": "Navigating fate across unknown continents.",
+      "rating": 5,
+      "price": 42.0,
+      "stock": 640,
+      "categories": ["History", "Adventure"],
+      "authors": ["14n4o5p6-q7r8-901s-2t23-uv24wx25yz26"]
+    },
+    {
+      "id": "u8v9w0x1-y2z3-4a5b-6c07-pq10qr11rs12",
+      "img": "https://i.ibb.co/gZhsJ3K/cover32.jpg",
+      "title": "Mist in the Citadel",
+      "detail": "A rebellion brews in the shadow of power.",
+      "rating": 4,
+      "price": 33.3,
+      "stock": 700,
+      "categories": ["Mystery", "Science"],
+      "authors": ["15o5p6q7-r8s9-012t-3u24-vw25xy26za27"]
+    },
+    {
+      "id": "v9w0x1y2-z3a4-5b6c-7d08-qr11rs12st13",
+      "img": "https://i.ibb.co/5cZbRTy/cover33.jpg",
+      "title": "Ashes and Ink",
+      "detail": "The diary of a revolutionary poet.",
+      "rating": 5,
+      "price": 25.5,
+      "stock": 530,
+      "categories": ["Poetry", "History"],
+      "authors": ["06f6g7h8-i9j0-123k-4l15-mn16op17qr18"]
+    },
+    {
+      "id": "w0x1y2z3-a4b5-6c7d-8e09-rs12st13tu14",
+      "img": "https://i.ibb.co/Bgf7J2g/cover34.jpg",
+      "title": "Bells on the Wind",
+      "detail": "A girl’s journey through love and exile.",
+      "rating": 4,
+      "price": 24.75,
+      "stock": 460,
+      "categories": ["Romantic", "Novel"],
+      "authors": ["08h8i9j0-k1l2-345m-6n17-op18qr19st20"]
+    },
+    {
+      "id": "x1y2z3a4-b5c6-7d8e-9f10-st13tu14uv15",
+      "img": "https://i.ibb.co/sjQnCkP/cover35.jpg",
+      "title": "Crows of the Empire",
+      "detail": "Dark forces rise in an ancient realm.",
+      "rating": 5,
+      "price": 38.5,
+      "stock": 910,
+      "categories": ["Mystery", "Science"],
+      "authors": ["09i9j0k1-l2m3-456n-7o18-pq19rs20tu21"]
+    }
+  ],
+  "authors": [
+    {
+      "id": "01a1b2c3-d4e5-678f-9a10-bc11de12fg13",
+      "img": "https://i.ibb.co/VW8QqPWs/authorphotos5-1024x683.jpg",
+      "detail": "Author of historical novels",
+      "name": "James Carlton",
+      "category": "Novelists",
+      "rating": 5,
+      "about": "James writes deeply researched historical narratives."
+    },
+    {
+      "id": "02b2c3d4-e5f6-789g-0h11-ij12kl13mn14",
+      "img": "https://i.ibb.co/JWCqKdVY/author-portrait-of-tamara-j-walker.jpg",
+      "detail": "Specializes in romantic plays",
+      "name": "Laura Mendes",
+      "category": "Playwrights",
+      "rating": 4,
+      "about": "Laura is a leading figure in modern romantic theatre."
+    },
+    {
+      "id": "03c3d4e5-f6g7-890h-1i12-jk13lm14no15",
+      "img": "https://i.ibb.co/WvtBJ3C1/Samuel-Choi-Headshot.png",
+      "detail": "Writes poetic reflections",
+      "name": "Samuel Choi",
+      "category": "Poets",
+      "rating": 5,
+      "about": "Samuel is known for vivid poetic expressions of nature."
+    },
+    {
+      "id": "04d4e5f6-g7h8-901i-2j13-kl14mn15op16",
+      "img": "https://i.ibb.co/JwqxvLmR/authors-portrait-branding-portrait-photography-bournemouth-23.jpg",
+      "detail": "Essayist on modern science",
+      "name": "Amina Okafor",
+      "category": "Essayists",
+      "rating": 4,
+      "about": "Amina explores scientific ideas through social commentary."
+    },
+    {
+      "id": "05e5f6g7-h8i9-012j-3k14-lm15no16pq17",
+      "img": "https://i.ibb.co/zhsqGV80/large-1750672436-5d828de94eb6335ab72920b91ef4e8f5.jpg",
+      "detail": "Biographer of world leaders",
+      "name": "Victor Svensson",
+      "category": "Biographers",
+      "rating": 5,
+      "about": "Victor has written acclaimed biographies of global figures."
+    },
+    {
+      "id": "06f6g7h8-i9j0-123k-4l15-mn16op17qr18",
+      "img": "https://i.ibb.co/fYnxDJ7q/jcarlton-jpg.jpg",
+      "detail": "Novelist of romantic tales",
+      "name": "Emma Russo",
+      "category": "Novelists",
+      "rating": 4,
+      "about": "Emma creates emotionally rich love stories."
+    },
+    {
+      "id": "07g7h8i9-j0k1-234l-5m16-no17pq18rs19",
+      "img": "https://example.com/author7.jpg",
+      "detail": "Writes plays on science fiction",
+      "name": "Brian Kwon",
+      "category": "Playwrights",
+      "rating": 3,
+      "about": "Brian blends science fiction into contemporary drama."
+    },
+    {
+      "id": "08h8i9j0-k1l2-345m-6n17-op18qr19st20",
+      "img": "https://i.ibb.co/zhsqGV80/large-1750672436-5d828de94eb6335ab72920b91ef4e8f5.jpg",
+      "detail": "Nature poet",
+      "name": "Isla Fern",
+      "category": "Poets",
+      "rating": 5,
+      "about": "Isla crafts poems inspired by wild landscapes."
+    },
+    {
+      "id": "09i9j0k1-l2m3-456n-7o18-pq19rs20tu21",
+      "img": "https://i.ibb.co/JWCqKdVY/author-portrait-of-tamara-j-walker.jpg",
+      "detail": "Essayist in philosophy",
+      "name": "Leo Baum",
+      "category": "Essayists",
+      "rating": 4,
+      "about": "Leo focuses on ethics and modern dilemmas."
+    },
+    {
+      "id": "10j0k1l2-m3n4-567o-8p19-qr20st21uv22",
+      "img": "https://i.ibb.co/VW8QqPWs/authorphotos5-1024x683.jpg",
+      "detail": "Biographer of inventors",
+      "name": "Cecilia Ong",
+      "category": "Biographers",
+      "rating": 4,
+      "about": "Cecilia profiles innovators in technology."
+    },
+    {
+      "id": "11k1l2m3-n4o5-678p-9q20-rs21tu22vw23",
+      "img": "https://i.ibb.co/JwqxvLmR/authors-portrait-branding-portrait-photography-bournemouth-23.jpg",
+      "detail": "Romantic novel expert",
+      "name": "Tomás Alvarez",
+      "category": "Novelists",
+      "rating": 5,
+      "about": "Tomás captures the depth of human connection."
+    },
+    {
+      "id": "12l2m3n4-o5p6-789q-0r21-st22uv23wx24",
+      "img": "https://i.ibb.co/zhsqGV80/large-1750672436-5d828de94eb6335ab72920b91ef4e8f5.jpg",
+      "detail": "Writes psychological plays",
+      "name": "Nadia El-Amin",
+      "category": "Playwrights",
+      "rating": 4,
+      "about": "Nadia explores the subconscious mind on stage."
+    },
+    {
+      "id": "13m3n4o5-p6q7-890r-1s22-tu23vw24xy25",
+      "img": "https://i.ibb.co/JWCqKdVY/author-portrait-of-tamara-j-walker.jpg",
+      "detail": "Classic poetry expert",
+      "name": "Jasper Lin",
+      "category": "Poets",
+      "rating": 5,
+      "about": "Jasper revives classic poetry with modern twists."
+    },
+    {
+      "id": "14n4o5p6-q7r8-901s-2t23-uv24wx25yz26",
+      "img": "https://i.ibb.co/WvtBJ3C1/Samuel-Choi-Headshot.png",
+      "detail": "Philosophy and science essayist",
+      "name": "Mira Singh",
+      "category": "Essayists",
+      "rating": 4,
+      "about": "Mira bridges science with human thought."
+    },
+    {
+      "id": "15o5p6q7-r8s9-012t-3u24-vw25xy26za27",
+      "img": "https://i.ibb.co/VW8QqPWs/authorphotos5-1024x683.jpg",
+      "detail": "Documentarian biographer",
+      "name": "Raj Patel",
+      "category": "Biographers",
+      "rating": 5,
+      "about": "Raj creates biographies with visual storytelling."
+    }
+  ],
+
+  "users": [
+    {
+      "email": "demo@gmail.com",
+      "password": "$2a$10$mgrVLuuKKoqElWgMT0viy.LUu0H.SgB8PHD/18TIwRXqgYKjop.d6",
+      "name": "Hung Mai",
+      "id": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+      "created_at": "2025-02-16T12:41:45.095Z",
+      "updated_at": "2025-02-16T12:41:45.095Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "5d4e344f-8a8c-4d00-b8c5-7b4ad30f62b9",
+      "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+      "avatar": ""
+    }
+  ],
+  "cart": [],
+  "wishlist": [],
+  "address": [],
+  "notification": [],
+  "order": []
+}
