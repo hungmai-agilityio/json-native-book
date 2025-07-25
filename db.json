@@ -1265,11 +1265,12 @@
   "users": [
     {
       "email": "demo@gmail.com",
-      "password": "pass123456",
+      "password": "$2a$10$tkWmZ7ZxfLOHYAwUr/nSyu4O2YvMtX6R/FnryMr/A9r0GnXZ/RNTm",
+      "confirm": "demo123456",
       "name": "Hung Mai",
       "id": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
       "created_at": "2025-02-16T12:41:45.095Z",
-      "updated_at": "2025-02-16T12:41:45.095Z"
+      "updated_at": "2025-07-25T09:09:23.021Z"
     }
   ],
   "profiles": [
