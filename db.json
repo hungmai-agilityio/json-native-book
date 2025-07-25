@@ -1281,7 +1281,36 @@
   ],
   "cart": [],
   "wishlist": [],
-  "address": [],
+  "address": [
+    {
+      "id": "3957f701-fe58-4c3d-abd2-62e5b2ce69d1",
+      "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+      "phone": "0764826708",
+      "name": "Customer",
+      "city": "Da Nang",
+      "block": "C",
+      "street": "137 Xo Viet Nghe Tinh",
+      "building": "",
+      "floor": "",
+      "flat": "",
+      "avenue": "",
+      "isDefault": true
+    },
+    {
+      "id": "3957f701-mi584cnh-ngd7-62e5b2ce69du",
+      "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+      "phone": "0764826708",
+      "name": "Guys",
+      "city": "Da Nang",
+      "block": "",
+      "street": "12 Dien Bien",
+      "building": "Royal C.T.O",
+      "floor": "12",
+      "flat": "",
+      "avenue": "",
+      "isDefault": false
+    }
+  ],
   "notification": [],
   "order": []
 }
