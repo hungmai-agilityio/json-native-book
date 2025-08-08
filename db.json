@@ -1131,8 +1131,7 @@
       "detail": "Author of historical novels",
       "name": "James Carlton",
       "category": "Novelists",
-      "rating": 5,
-      "about": "James writes deeply researched historical narratives."
+      "rating": 5
     },
     {
       "id": "02b2c3d4-e5f6-789g-0h11-ij12kl13mn14",
@@ -1140,8 +1139,7 @@
       "detail": "Specializes in romantic plays",
       "name": "Laura Mendes",
       "category": "Playwrights",
-      "rating": 4,
-      "about": "Laura is a leading figure in modern romantic theatre."
+      "rating": 4
     },
     {
       "id": "03c3d4e5-f6g7-890h-1i12-jk13lm14no15",
@@ -1149,8 +1147,7 @@
       "detail": "Writes poetic reflections",
       "name": "Samuel Choi",
       "category": "Poets",
-      "rating": 5,
-      "about": "Samuel is known for vivid poetic expressions of nature."
+      "rating": 5
     },
     {
       "id": "04d4e5f6-g7h8-901i-2j13-kl14mn15op16",
@@ -1158,8 +1155,7 @@
       "detail": "Essayist on modern science",
       "name": "Amina Okafor",
       "category": "Essayists",
-      "rating": 4,
-      "about": "Amina explores scientific ideas through social commentary."
+      "rating": 4
     },
     {
       "id": "05e5f6g7-h8i9-012j-3k14-lm15no16pq17",
@@ -1167,8 +1163,7 @@
       "detail": "Biographer of world leaders",
       "name": "Victor Svensson",
       "category": "Biographers",
-      "rating": 5,
-      "about": "Victor has written acclaimed biographies of global figures."
+      "rating": 5
     },
     {
       "id": "06f6g7h8-i9j0-123k-4l15-mn16op17qr18",
@@ -1176,8 +1171,7 @@
       "detail": "Novelist of romantic tales",
       "name": "Emma Russo",
       "category": "Novelists",
-      "rating": 4,
-      "about": "Emma creates emotionally rich love stories."
+      "rating": 4
     },
     {
       "id": "07g7h8i9-j0k1-234l-5m16-no17pq18rs19",
@@ -1185,8 +1179,7 @@
       "detail": "Writes plays on science fiction",
       "name": "Brian Kwon",
       "category": "Playwrights",
-      "rating": 3,
-      "about": "Brian blends science fiction into contemporary drama."
+      "rating": 3
     },
     {
       "id": "08h8i9j0-k1l2-345m-6n17-op18qr19st20",
@@ -1194,8 +1187,7 @@
       "detail": "Nature poet",
       "name": "Isla Fern",
       "category": "Poets",
-      "rating": 5,
-      "about": "Isla crafts poems inspired by wild landscapes."
+      "rating": 5
     },
     {
       "id": "09i9j0k1-l2m3-456n-7o18-pq19rs20tu21",
@@ -1203,8 +1195,7 @@
       "detail": "Essayist in philosophy",
       "name": "Leo Baum",
       "category": "Essayists",
-      "rating": 4,
-      "about": "Leo focuses on ethics and modern dilemmas."
+      "rating": 4
     },
     {
       "id": "10j0k1l2-m3n4-567o-8p19-qr20st21uv22",
@@ -1212,8 +1203,7 @@
       "detail": "Biographer of inventors",
       "name": "Cecilia Ong",
       "category": "Biographers",
-      "rating": 4,
-      "about": "Cecilia profiles innovators in technology."
+      "rating": 4
     },
     {
       "id": "11k1l2m3-n4o5-678p-9q20-rs21tu22vw23",
@@ -1221,8 +1211,7 @@
       "detail": "Romantic novel expert",
       "name": "Tomás Alvarez",
       "category": "Novelists",
-      "rating": 5,
-      "about": "Tomás captures the depth of human connection."
+      "rating": 5
     },
     {
       "id": "12l2m3n4-o5p6-789q-0r21-st22uv23wx24",
@@ -1230,8 +1219,7 @@
       "detail": "Writes psychological plays",
       "name": "Nadia El-Amin",
       "category": "Playwrights",
-      "rating": 4,
-      "about": "Nadia explores the subconscious mind on stage."
+      "rating": 4
     },
     {
       "id": "13m3n4o5-p6q7-890r-1s22-tu23vw24xy25",
@@ -1239,8 +1227,7 @@
       "detail": "Classic poetry expert",
       "name": "Jasper Lin",
       "category": "Poets",
-      "rating": 5,
-      "about": "Jasper revives classic poetry with modern twists."
+      "rating": 5
     },
     {
       "id": "14n4o5p6-q7r8-901s-2t23-uv24wx25yz26",
@@ -1248,8 +1235,7 @@
       "detail": "Philosophy and science essayist",
       "name": "Mira Singh",
       "category": "Essayists",
-      "rating": 4,
-      "about": "Mira bridges science with human thought."
+      "rating": 4
     },
     {
       "id": "15o5p6q7-r8s9-012t-3u24-vw25xy26za27",
@@ -1257,8 +1243,7 @@
       "detail": "Documentarian biographer",
       "name": "Raj Patel",
       "category": "Biographers",
-      "rating": 5,
-      "about": "Raj creates biographies with visual storytelling."
+      "rating": 5
     }
   ],
 
